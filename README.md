@@ -48,7 +48,7 @@
 ## Repositories 📁
 
 #### Assignments
-- [CoE202 Intorduction to AI](https://github.com/Kohgeonho/ViZDoom)
+- [CoE202 Intorduction to AI: Project](https://github.com/Kohgeonho/ViZDoom)
 - [CS454 AI based SWE: Project](https://github.com/Kohgeonho/AFLGOPT)
 - [CS376 NLP with Python: Project](https://github.com/Kohgeonho/nlp_project_liars_game)
 - [CS376 NLP with Python: HW3](https://github.com/Kohgeonho/NLP_HW3_gap_coreference)
