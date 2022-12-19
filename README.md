@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
 
-## Status
+## Status 📊
 
 #### Solved.ac
 
@@ -45,11 +45,21 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kohgeonho&show_icons=true&theme=buefy)
 
-## Repositories
+## Repositories 📁
 
 #### Assignments
+- [CoE202 Intorduction to AI](https://github.com/Kohgeonho/ViZDoom)
+- [CS454 AI based SWE: Project](https://github.com/Kohgeonho/AFLGOPT)
+- [CS376 NLP with Python: Project](https://github.com/Kohgeonho/nlp_project_liars_game)
+- [CS376 NLP with Python: HW3](https://github.com/Kohgeonho/NLP_HW3_gap_coreference)
 
 #### Paper Reviews
 
 #### Code Test
 
+#### Competition
+- [2022-AI-competition-Round1](https://github.com/Kohgeonho/2022-AI-competition-Round1)
+
+
+#### Projects
+- [Chart Tracker](https://github.com/Kohgeonho/chart_tracker)
