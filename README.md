@@ -4,11 +4,14 @@
   <a href="mailto:ghkoh97@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ghkoh97@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-I'm **ML Engineer/Data Scientist** working at Bucketplace.
+<p>
+  I'm <b>ML Engineer/Data Scientist</b>, skilled in <b>Recommendation, NLP, CV</b> field. <br>
+  I majored in <b>Computer Science</b> at <b>KAIST</b>, focused on <b>AI/ML</b>. <br>
+  
+  This is my personal space where I practice assignment, paper review, code test, etc.
+</p>
 
-I majored in Computer Science at KAIST, and now working in the **Recommendation, NLP, CV** field.
-
-### Skills 👨🏻‍💻
+## Tech Stacks 👨🏻‍💻
 #### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -32,4 +35,21 @@ I majored in Computer Science at KAIST, and now working in the **Recommendation,
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
 
+## Status
+
+#### Solved.ac
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ghkoh_97)](https://solved.ac/ghkoh_97)
+
+#### Github
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kohgeonho&show_icons=true&theme=buefy)
+
+## Repositories
+
+#### Assignments
+
+#### Paper Reviews
+
+#### Code Test
+
