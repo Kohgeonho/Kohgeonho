@@ -48,7 +48,10 @@
 ## Repositories 📁
 
 #### Assignments
+- [EE412 Big Data Analytics: HW](https://github.com/Kohgeonho/EE412-Big-Data-Analytics)
+- [CS484 Introduction to CV: HW](https://github.com/Kohgeonho/CS484-Introduction-to-CV)
 - [CoE202 Intorduction to AI: Project](https://github.com/Kohgeonho/ViZDoom)
+- [CS454 AI based SWE: HW](https://github.com/Kohgeonho/CS454-AI-based-SWE)
 - [CS454 AI based SWE: Project](https://github.com/Kohgeonho/AFLGOPT)
 - [CS376 NLP with Python: Project](https://github.com/Kohgeonho/nlp_project_liars_game)
 - [CS376 NLP with Python: HW3](https://github.com/Kohgeonho/NLP_HW3_gap_coreference)
