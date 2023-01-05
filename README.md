@@ -63,6 +63,7 @@
 #### Code Test
 - [BaekJoon-16236 Baby Shark](https://github.com/Kohgeonho/Baby-Shark) <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="12pt">
 - [BaekJoon-2580 Sudoku](https://github.com/Kohgeonho/Sudoku) <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="12pt"> 
+- [BaekJoon-15711 Fantastic Partner](https://github.com/Kohgeonho/Prime-Discriminator) <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="12pt"> 
 
 #### Competition
 - [2022-AI-competition-Round1](https://github.com/Kohgeonho/2022-AI-competition-Round1)
