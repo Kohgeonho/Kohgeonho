@@ -8,7 +8,7 @@
   I'm <b>ML Engineer/Data Scientist</b>, skilled in <b>Recommendation, NLP, CV</b> field. <br>
   I majored in <b>Computer Science</b> at <b>KAIST</b>, focused on <b>AI/ML</b>. <br>
   
-  This is my personal space where I practice assignment, paper review, code test, etc.
+  This is my personal space where I practice assignment, paper review, problem solving, etc.
 </p>
 
 ## Tech Stacks 👨🏻‍💻
@@ -60,7 +60,7 @@
 
 #### Paper Reviews
 
-#### Code Test
+#### Problem Solving
 - [BaekJoon-16236 Baby Shark](https://github.com/Kohgeonho/Baby-Shark) <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="12pt">
 - [BaekJoon-2580 Sudoku](https://github.com/Kohgeonho/Sudoku) <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="12pt"> 
 - [BaekJoon-15711 Fantastic Partner](https://github.com/Kohgeonho/Prime-Discriminator) <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="12pt"> 
