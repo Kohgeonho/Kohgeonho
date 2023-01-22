@@ -63,7 +63,7 @@
 #### Problem Solving
 - <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="10pt"> [BaekJoon-16236 Baby Shark](https://github.com/Kohgeonho/Baby-Shark) 
 - <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="10pt"> [BaekJoon-2580 Sudoku](https://github.com/Kohgeonho/Sudoku) 
-- <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="10pt"> [BaekJoon-15711 Fantastic Partner](https://github.com/Kohgeonho/Prime-Discriminator) 
+- <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="10pt"> [BaekJoon-15711 Fantastic Partner (Prime Discriminator)](https://github.com/Kohgeonho/Prime-Discriminator) 
 - <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="10pt"> [BackJoon-2529 Inequality Sign](https://github.com/Kohgeonho/Inequality-Sign) 
 
 #### Competition
