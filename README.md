@@ -65,6 +65,7 @@
 - <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="10pt"> [BaekJoon-2580 Sudoku](https://github.com/Kohgeonho/Sudoku) 
 - <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="10pt"> [BaekJoon-15711 Fantastic Partner (Prime Discriminator)](https://github.com/Kohgeonho/Prime-Discriminator) 
 - <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="10pt"> [BackJoon-2529 Inequality Sign](https://github.com/Kohgeonho/Inequality-Sign) 
+- <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="10pt"> [BackJoon-1865 Wormhole (Graph Distance)](https://github.com/Kohgeonho/Wormhole)
 
 #### Competition
 - [2022-AI-competition-Round1](https://github.com/Kohgeonho/2022-AI-competition-Round1)
