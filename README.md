@@ -2,6 +2,7 @@
 <p>
   <a href="https://www.linkedin.com/in/건호-고-6b8856118/" target="_blank"><img src="https://img.shields.io/badge/GeonhoKoh-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:ghkoh97@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ghkoh97@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+   <a href="mailto:ghkoh97@bucketplace.net" target="_blank"><img src="https://img.shields.io/badge/ghkoh97@bucketplace.net-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p>
